@@ -2,7 +2,7 @@
 name = "opendid-oracle"
 version = "0.1.0"
 description = "opendid oracle contracts"
-edition = "2025"
+edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "lib"]
