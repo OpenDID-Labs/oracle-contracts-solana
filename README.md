@@ -1,2 +1,3 @@
-# oracle-contracts-solana
-OpenDID Oracle contract source code deployed on Solana Mainnet.
+**OpenDID** is an infrastructure that connects all major cryptography-based digital identity and decentralized identifier (DID) systems, routing encrypted messages between them and business systems. It enables developers and applications to easily register, authenticate, and verify identities and verifiable credentials (VCs) across diverse platforms.
+
+As a messaging backbone similar to SWIFT, but for identity systems, OpenDID provides two types of Access Points: Web3-based Oracles deployed on various public chains and Web2-based Gateways deployed locally. Both access methods are open-source at GitHub and can be freely accessed or installed. For detailed information about the OpenDID Project, please read the whitepaper below.
